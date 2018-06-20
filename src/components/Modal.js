@@ -5,7 +5,7 @@ import TaskItem from './TaskItem'
 
 class Modal extends Component {
   render() {
-    const {tasks, isDisplayModal, tasksSearch} = _.cloneDeep(this.props)
+    const {isDisplayModal, tasksSearch} = _.cloneDeep(this.props)
     return (
       <div className="modal fade in" id="modal-default" style={{display: 'block', paddingRight: '17px'}}>
         <div className="modal-dialog">

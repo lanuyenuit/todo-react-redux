@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/react-redux.iml" filepath="$PROJECT_DIR$/.idea/react-redux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/todo-demo.iml" filepath="$PROJECT_DIR$/.idea/todo-demo.iml" />
     </modules>
   </component>
 </project>
